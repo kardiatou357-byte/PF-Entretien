@@ -1,0 +1,19 @@
+		Checpoint: Préparation à l'entretien et révision finale :
+Êtes-vous prêt à entamer une nouvelle étape de votre parcours professionnel ? Préparation à l'entretien et révision finale
+Oui, je suis pleinement prête à entamer cette nouvelle étape de mon parcours professionnel. Le Bootcamp m'a permis de développer des compétences techniques solides et une méthodologie de travail rigoureuse qui me donne la confiance nécessaire pour relever de nouveaux défis. Je suis motivée à mettre en pratique mes acquis dans un environnement professionnel et à continuer d'apprendre au sein d'une équipe.
+Idées à partager sur les compétences acquises pendant le Bootcamp
+Au cours de ce Bootcamp, j'ai acquis et consolidé plusieurs compétences clés :
+Compétences techniques
+•	Développement web : maîtrise des langages front-end et back-end (HTML, CSS, JavaScript,React, NodeJS,Express, etc.)
+•	Gestion de versions : utilisation de Git et GitHub pour le travail collaboratif
+•	Résolution de problèmes : capacité à décomposer des problèmes complexes en solutions concrètes
+•	Méthodologies agiles : travail en sprints, revues de code et itérations rapides
+Compétences transversales
+•	Travail en équipe : collaboration efficace sur des projets communs
+•	Communication : présentation claire des idées et de la documentation technique
+•	Autonomie : capacité à apprendre de manière autonome et à chercher des solutions
+•	Gestion du temps : respect des délais dans un environnement exigeant
+Perspectives
+Je souhaite continuer à approfondir ces compétences, notamment en contribuant à des projets open source et en me tenant à jour sur les nouvelles technologies. Mon objectif est de devenir une développeuse polyvalente capable de s'adapter à différents contextes techniques.
+
+
